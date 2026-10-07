@@ -1,0 +1,13 @@
+{
+  "name": "yn-classes-static-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple static information website for Y N Classes.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
